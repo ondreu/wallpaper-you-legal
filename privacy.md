@@ -7,7 +7,7 @@ title: Wallpaper You — Privacy Policy
 
 ## English
 
-Wallpaper You ("the app") is developed by Ondřej (contact: **CONTACT_EMAIL**).
+Wallpaper You ("the app") is developed by Ondřej (contact: **ondrej.uhnavy@proton.me**).
 
 **What the app itself collects:** nothing. The app has no accounts, no analytics and no servers of its own. Your settings (chosen design, colour, mode) are stored only on your device. Images you download are saved only to your device's Pictures folder.
 
@@ -23,7 +23,7 @@ Wallpaper You ("the app") is developed by Ondřej (contact: **CONTACT_EMAIL**).
 
 ## Čeština
 
-Aplikaci Wallpaper You („aplikace“) vyvíjí Ondřej (kontakt: **CONTACT_EMAIL**).
+Aplikaci Wallpaper You („aplikace“) vyvíjí Ondřej (kontakt: **ondrej.uhnavy@proton.me**).
 
 **Co aplikace sama sbírá:** nic. Nemá účty, analytiku ani vlastní servery. Nastavení (vybraný design, barva, režim) se ukládá jen v tvém zařízení. Stažené obrázky se ukládají jen do složky Obrázky v zařízení.
 
